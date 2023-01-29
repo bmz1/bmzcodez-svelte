@@ -29,20 +29,20 @@
 				{nickname}
 			</a>
 
-      <div class="flex gap-3">
-        <a
-          class="text font-bold sm:text-xl !text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-teal-600 dark:to-teal-400"
-          href="/blog"
-        >
-          blog
-        </a>
-        <a
-          class="text font-bold sm:text-xl !text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-teal-600 dark:to-teal-400"
-          href="/about"
-        >
-          about
-        </a>
-      </div>
+			<div class="flex gap-3">
+				<a
+					class="text font-bold sm:text-xl !text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-teal-600 dark:to-teal-400"
+					href="/blog"
+				>
+					blog
+				</a>
+				<a
+					class="text font-bold sm:text-xl !text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-teal-600 dark:to-teal-400"
+					href="/about"
+				>
+					about
+				</a>
+			</div>
 
 			<button
 				type="button"

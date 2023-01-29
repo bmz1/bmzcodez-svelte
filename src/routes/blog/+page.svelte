@@ -13,7 +13,7 @@
 
 <svelte:head>
 	<title>{nickname} | Posts</title>
-  <meta name="description" content="All of my written content collected in one place" />
+	<meta name="description" content="All of my written content collected in one place" />
 </svelte:head>
 
 <div class="flex flex-col flex-grow">
@@ -31,7 +31,7 @@
 	<!-- pagination -->
 	<div class="flex items-center justify-between pt-16 pb-8">
 		{#if !isFirstPage}
-			<a href={`/blog/${data.page - 1}`}  >
+			<a href={`/blog/${data.page - 1}`}>
 				<ArrowLeftIcon class="w-4 h-4" />
 				Previous
 			</a>

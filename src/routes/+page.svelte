@@ -33,7 +33,6 @@
 		</p>
 	</div>
 
-
 	<div class="flex justify-center gap-4 flex-wrap pt-2">
 		<img
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"

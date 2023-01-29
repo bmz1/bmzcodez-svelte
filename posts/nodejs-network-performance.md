@@ -34,7 +34,7 @@ These operations appear to be asynchronous in a JavaScript perspective, but they
 
 ## The DNS problem
 
-As stated above, DNS resolving is a synchronous task in Node.js handled by the libuv thread pool. It’s not a problem until you have high amount of network traffic. 
+As stated above, DNS resolving is a synchronous task in Node.js handled by the libuv thread pool. It’s not a problem until you have high amount of network traffic.
 
 Also, there is no DNS caching in Node.js by default.
 
@@ -51,7 +51,7 @@ It is implemented as a synchronous call to getaddrinfo(3) that runs on libuv's t
 - use `dns.resolve()`, which is not handled by the thread pool
 - apply `Keep-Alive` HTTP Agent
 - pro tip: add a `.` to the end of absolute url (`https://facebook.com.`)
-    - skip ndots
+  - skip ndots
 
 If you want to understand more deeply how DNS resolving works, check out this DNS zine book.
 
@@ -82,11 +82,11 @@ import KeepAliveAgent from 'agentkeepalive'
 const keepAliveAgent = new KeepAliveAgent({ keepAlive: true, timeout: 10000 })
 
 const instance = axios.create({
-  baseURL: 'https://some-domain.com/api/',
-  timeout: 1000,
-  headers: {'X-Custom-Header': 'foobar'},
-  httpAgent: keepAliveAgent,
-});
+	baseURL: 'https://some-domain.com/api/',
+	timeout: 1000,
+	headers: { 'X-Custom-Header': 'foobar' },
+	httpAgent: keepAliveAgent
+})
 ```
 
 `agentkeepalive` will take care of closing the client’s connection before the server does. It eliminates most of the `ECONNRESET` and `socket hang up` errors.
@@ -105,7 +105,6 @@ Since it is enabled, P99 latency rarely go above 100ms towards AWS.
 
 Implement caching whenever possible. You can easily do caching with the library below.
 [p-memoize](https://www.npmjs.com/package/p-memoize)
-
 
 **Knowledge-base**:
 

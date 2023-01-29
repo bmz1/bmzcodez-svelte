@@ -211,8 +211,8 @@ If you install Puppeteer on the Alpine image, make sure you scroll down a bit to
 
 ```js
 const browser = await puppeteer.launch({
-  headless: true,
-  args: ['--disable-dev-shm-usage'],
+	headless: true,
+	args: ['--disable-dev-shm-usage']
 })
 ```
 
@@ -234,13 +234,13 @@ Let’s see an example.
 
 ```css
 @media print {
-  .print-button {
-    display: none;
-  }
+	.print-button {
+		display: none;
+	}
 
-  .content div {
-    break-after: always;
-  }
+	.content div {
+		break-after: always;
+	}
 }
 ```
 

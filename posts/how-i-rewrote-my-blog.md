@@ -9,10 +9,12 @@ description: 'A quick overview how I rewrote my blog, and what technologies I ch
 ---
 
 ## TLDR
+
 - Nuxt
 - nuxt-content module to handle markdown
 - TailwindCSS
 - Vercel for hosting
+
 ---
 
 OUTDATED
@@ -20,6 +22,7 @@ OUTDATED
 It took about a year or two to find the most elegant and fitting solution. I had tons of attempts, but most of it were trash. Actually, I didn't know what I wanted.
 
 So, I've tried all the frameworks:
+
 - Next
 - Remix
 - Gatsby
@@ -29,11 +32,12 @@ So, I've tried all the frameworks:
 The goal was to have a framework with a well-known api (doesn't matter if it's React, Vue, Svelte, or other stuff) which can generate a static site from markdown files.
 
 ## Eureka
-All of the above mentioned frameworks felt like too much for a simple blog, and it seemed that it requires a lot of time to have something that works well. 
 
-Then I came across [Nuxt.js](https://nuxtjs.org/). Nuxt is basically the same like Next but for Vue instead of React. I thought this is going to be also an overkill for my good ol' markdown files. 
+All of the above mentioned frameworks felt like too much for a simple blog, and it seemed that it requires a lot of time to have something that works well.
 
-However, I was wrong. I was following Vue.js development, and I've read about Nuxt, but never tried it. 
+Then I came across [Nuxt.js](https://nuxtjs.org/). Nuxt is basically the same like Next but for Vue instead of React. I thought this is going to be also an overkill for my good ol' markdown files.
+
+However, I was wrong. I was following Vue.js development, and I've read about Nuxt, but never tried it.
 
 ![I was wrong](https://c.tenor.com/_mDYMNndgPkAAAAC/thorin-never-been-so-wrong.gif)
 
@@ -44,15 +48,17 @@ It's so freakin simple like 1 times 1. In fact, I've spent more time with CSS, t
 ## Choices
 
 ### Framework
+
 So obviously to create a static site I chose Nuxt with the faboulus [`nuxt-content`](https://content.nuxtjs.org/) module.
 I'm using React at my job, so I wanted something else, something fun, and Vue is fun.
 
 ### Style
+
 I hate writing CSS, so Tailwind ftw!
 
 ### Cloud
-I replaced Netlify with Vercel. It's so simple to use.
 
+I replaced Netlify with Vercel. It's so simple to use.
 
 ## Under the hood
 
@@ -65,4 +71,5 @@ I've looked under the hood in Nuxt, and I've found some very interesting librari
 It's worth to have a look to [unjs](https://github.com/unjs) Github page.
 
 ---
+
 Thus, after a long journey, this blog now can thrive. I just have to make some content.
