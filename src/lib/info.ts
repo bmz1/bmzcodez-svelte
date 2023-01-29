@@ -13,7 +13,7 @@ export const nickname = '@bmzcodez'
 // Used for the landing page & footer of posts
 export const avatar = 'https://avatars.githubusercontent.com/u/37080510?v=4'
 export const bio = `\
-I’m ${firstName} ${lastName}, a full-stack JavaScript software engineer based in Budapest. I have a passion for learning new technologies. I am always eager to stay up-to-date with the latest changes in the ecosystem. I have a strong knowledge base in Node.js and React, and I am also well-versed in the use of AWS services for infrastructure. Autodidact learner.
+I’m ${firstName} ${lastName} aka BMZ, a full-stack JavaScript software engineer based in Budapest. I have a passion for learning new technologies. I am always eager to stay up-to-date with the latest changes in the ecosystem. I have a strong knowledge base in Node.js and React, and I am also well-versed in the use of AWS services for infrastructure. Autodidact learner.
 `
 
 export const keywords = [
