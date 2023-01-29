@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
 	import Card from './Card.svelte'
 	import ArrowRightIcon from './ArrowRightIcon.svelte'
 
-	export let post
+	export let post: import('src/types').Post
 </script>
 
 <Card href={`/blog/${post.slug}`}>

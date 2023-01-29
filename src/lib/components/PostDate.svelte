@@ -1,11 +1,11 @@
-<script>
+<script lang="ts">
 	import { format, parseISO } from 'date-fns'
 
-	export let decorate
-	export let post
+	export let decorate: Boolean
+	export let post: import('src/types').Post
 	export let collapsed = false
 
-	let _class
+	let _class: any
 	export { _class as class }
 </script>
 

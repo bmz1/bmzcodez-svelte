@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
 	import PostPreview from '$lib/components/PostPreview.svelte'
 	import PostDate from '$lib/components/PostDate.svelte'
 
-	export let posts
+	export let posts: import('src/types').Post[]
 </script>
 
 <div class="flex flex-col gap-16 md:border-l md:border-zinc-100 md:pl-6 md:dark:border-zinc-700/40">

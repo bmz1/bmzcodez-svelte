@@ -2,6 +2,7 @@ import { browser } from '$app/environment'
 import { format } from 'date-fns'
 import { parse } from 'node-html-parser'
 import readingTime from 'reading-time'
+import type { Post } from 'src/types'
 
 // we require some server-side APIs to parse all metadata
 if (browser) {
@@ -9,7 +10,9 @@ if (browser) {
 }
 
 // Get all posts and add metadata
-export const posts = Object.entries(import.meta.glob('/posts/**/*.md', { eager: true }))
+export const posts: Post[] = Object.entries<Post>(
+	import.meta.glob('/posts/**/*.md', { eager: true })
+)
 	.map(([filepath, post]) => {
 		const html = parse(post.default.render().html)
 		const preview = post.metadata.preview ? parse(post.metadata.preview) : html.querySelector('p')
@@ -37,9 +40,9 @@ export const posts = Object.entries(import.meta.glob('/posts/**/*.md', { eager: 
 				: undefined,
 
 			preview: {
-				html: preview.toString(),
+				html: preview?.toString(),
 				// text-only preview (i.e no html elements), used for SEO
-				text: preview.structuredText ?? preview.toString()
+				text: preview?.structuredText ?? preview?.toString()
 			},
 
 			// get estimated reading time for the post
@@ -47,15 +50,15 @@ export const posts = Object.entries(import.meta.glob('/posts/**/*.md', { eager: 
 		}
 	})
 	// sort by date
-	.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+	.sort((a, b) => new Date(b.date!).getTime() - new Date(a.date!).getTime())
 	// add references to the next/previous post
 	.map((post, index, allPosts) => ({
 		...post,
 		next: allPosts[index - 1],
 		previous: allPosts[index + 1]
-	}))
+	})) as unknown as Post[]
 
-function addTimezoneOffset(date) {
+function addTimezoneOffset(date: Date) {
 	const offsetInMilliseconds = new Date().getTimezoneOffset() * 60 * 1000
 	return new Date(new Date(date).getTime() + offsetInMilliseconds)
 }

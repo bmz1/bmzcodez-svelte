@@ -4,8 +4,10 @@
  *
  */
 
+import type { PageLoad } from './$types'
+
 /** @type {import('./$types').PageLoad} */
-export async function load({ data }) {
+export const load: PageLoad = async ({ data }) => {
 	// load the markdown file based on slug
 	const component = data.post.isIndexFile
 		? // vite requires relative paths and explicit file extensions for dynamic imports
