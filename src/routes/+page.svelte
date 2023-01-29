@@ -13,7 +13,7 @@
 </svelte:head>
 
 <div class="flex flex-col gap-12">
-	<h1 class="text-4xl font-bold tracking-tight sm:text-5xl p-4">Hello there</h1>
+	<h1 class="text-4xl font-bold tracking-tight sm:text-5xl p-4">Hello World!</h1>
 
 	<div class="flex flex-col gap-8">
 		<div class="flex justify-center order-2 col-span-2 gap-6 md:order-2">
