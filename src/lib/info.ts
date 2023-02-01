@@ -3,7 +3,7 @@
 // feel free to remove this file.
 
 // URL of your website
-export const website = 'https://sveltekit-blog-template.vercel.app'
+export const website = 'https://bmzcodez.dev'
 
 export const firstName = 'Mate'
 export const lastName = 'Boer'
