@@ -7,6 +7,7 @@ author: bmz
 tags: ["life"]
 description: "In this article, we delve into how to manage health, learning, and finding meaning in a rapidly evolving world. With advancements like AI and new developments in philosophy and physics, it's more important than ever to stay informed."
 ---
+*This article was written by chatGPT based on my notes.*
 
 In today's rapidly changing world, it can be challenging to keep up with the latest advancements in technology and science. From artificial intelligence to new developments in physics and philosophy, the pace of change can feel overwhelming. However, failing to stay informed and engaged can lead to being left behind and feeling lost in a world that is constantly evolving.
 
@@ -84,8 +85,10 @@ The Mediterranean diet is a dietary pattern that is typically followed by people
 
 In addition to these health benefits, the Mediterranean diet is also known for its delicious and diverse range of foods, which makes it easy to stick to in the long term.
 
+Intermittent fasting can also have benefits for both physical and mental health.
+
 ### Nutritions
-In terms of nutrition, taking vitamin supplements such as A1G and BPN Strong Greens can be beneficial. Fasting can also have benefits for both physical and mental health.
+In terms of nutrition, for taking vitamin supplements my recommendations are A1G and BPN Strong Greens. 
 
 ### Exercise
 
@@ -101,32 +104,75 @@ Finally, it's worth noting that AI technology is improving in terms of medical d
 
 ## Philosophy
 
-Philosophy is the pursuit of wisdom and understanding, and there are many different ways to find meaning in life. Stoicism, Buddhism, and both Eastern and Western philosophies provide insight into living a meaningful life. All religions offer value, such as Jesus' teaching to love your neighbor, Taoism's yin yang, and Buddhism's emphasis on finding your own path. Ultimately, each person must figure out their own path and can combine various philosophies to create their own unique one. Spirituality, as explored by Alan Watts, is also a valuable perspective.
+Philosophy is the pursuit of wisdom and understanding, and there are many different ways to find meaning in life. Stoicism, Buddhism, and both Eastern and Western philosophies provide insight into living a meaningful life. All religions offer value, such as Jesus' teaching to love your neighbor, Taoism's yin yang, and Buddhism's emphasis on finding your own path. Ultimately, each person must figure out their own path and can combine various philosophies to create their own unique one.
 
 There is a constant search for understanding and interconnectedness, and the concept of consciousness remains a mystery. Looking back to the Greeks, philosophers such as Plato and Aristotle provide foundational concepts for understanding the world.
+Some of the most fascinating philosophical theories address topics such as consciousness, reality, and the nature of existence. 
 
-Some of the most fascinating philosophical theories address topics such as consciousness, reality, and the nature of existence. For example, Ikigai
-is a Japanese concept that roughly translates to "a reason for being" or "a sense of purpose in life." It is a combination of four elements: what you love, what you are good at, what the world needs, and what you can be paid for. The idea is that when these four elements intersect, you find your ikigai.
-Or others, like the Egg theory proposes that we are all the same consciousness experiencing different lives. Plato's cave analogy suggests that our understanding of reality is limited by our perceptions. The brain in a vat thought experiment asks if it is possible to know if we are living in a simulated reality. The multiverse theory suggests that there are infinite universes that exist alongside our own. These theories can challenge your assumptions and lead to new insights and understandings.
+Some theories worth knowing:
+
+- Ikigai: Ikigai is a Japanese concept that roughly translates to "a reason for being" or "a sense of purpose in life." It is a combination of four elements: what you love, what you are good at, what the world needs, and what you can be paid for. The idea is that when these four elements intersect, you find your ikigai.
+- Egg theory proposes that we are all the same consciousness experiencing different lives. 
+- Plato's cave analogy suggests that our understanding of reality is limited by our perceptions. 
+- The brain in a vat thought experiment asks if it is possible to know if we are living in a simulated reality. 
+- The multiverse theory suggests that there are infinite universes that exist alongside our own. 
+- Panpsychism
+- Dualism
+
+People to follow:
+- Sam Harris
+- Annaka Harris
+- Philip Goff
+- Tim Ferris
+- Mark Manson
+- Alan Watts
+- Slavoj Zizek
+- Jordan Peterson
+
+These theories can challenge your assumptions and lead to new insights and understandings.
 
 
 ## Science
 
 Science has made remarkable progress in the past few decades, revolutionizing our understanding of the universe and ourselves. From quantum mechanics to neuroscience, science has uncovered many mysteries of the world we live in.
 
-One of the most fascinating fields in science is physics, which studies the fundamental laws of nature. Quantum physics, in particular, has challenged our perception of reality. It proposes that particles can exist in multiple states at once, and only observation forces them to collapse into a single state. This has led to theories such as the multiverse, where an infinite number of parallel universes exist.
+One of the most fascinating fields in science is physics, which studies the fundamental laws of nature. 
 
-String theory is another theory in physics that aims to unify all the forces of nature. It suggests that everything in the universe, including particles and forces, can be explained by tiny, one-dimensional strings vibrating in 11 dimensions.
+Theories:
+- Quantum physics, in particular, has challenged our perception of reality. It proposes that particles can exist in multiple states at once, and only observation forces them to collapse into a single state. This has led to theories such as the multiverse, where an infinite number of parallel universes exist.
+  - Copenhagen interpretation
+  - Many world theory
 
+- String theory is another theory in physics that aims to unify all the forces of nature. It suggests that everything in the universe, including particles and forces, can be explained by tiny, one-dimensional strings vibrating in 11 dimensions.
+
+- CCC (Conformal cyclic cosmology)
 Cosmology, the study of the origins and evolution of the universe, has also made significant strides in recent years. The Big Bang theory, which proposes that the universe originated from a single point and has been expanding ever since, has been confirmed by various experiments and observations. Black holes, one of the most mysterious objects in the universe, have been studied in great detail, revealing their properties and behavior.
 
 The James Webb Space Telescope, set to launch in 2021, will allow scientists to observe the universe in unprecedented detail, unlocking even more secrets of the cosmos.
 
-When it comes to scientists to follow in the field of physics, there are plenty of options. Sean Carroll, a theoretical physicist, is known for his work on dark energy and general relativity. Arvin Ash, a science communicator, covers various topics in science, including quantum physics and cosmology. Sabine Hossenfelder, a physicist and author, offers her insights on current research and the philosophy of science. Brian Cox, a particle physicist and science communicator, is known for his documentaries and lectures on space and time. Don Lincoln, a particle physicist, covers a wide range of topics in science, including particle physics and cosmology. PBS Space Time, a YouTube channel, explores the latest theories and discoveries in physics and cosmology. And finally, Brian Greene, a theoretical physicist, has written several popular books on string theory and cosmology.
+People to follow:
+- Sean Carroll, a theoretical physicist, is known for his work on dark energy and general relativity. 
+- Arvin Ash, a science communicator, covers various topics in science, including quantum physics and cosmology. 
+- Sabine Hossenfelder, a physicist and author, offers her insights on current research and the philosophy of science. 
+- Brian Cox, a particle physicist and science communicator, is known for his documentaries and lectures on space and time. Don Lincoln, a particle physicist, covers a wide range of topics in science, including particle physics and cosmology. 
+- PBS Space Time, a YouTube channel, explores the latest theories and discoveries in physics and cosmology. 
+- Brian Greene, a theoretical physicist, has written several popular books on string theory and cosmology.
 
-Moving to the field of neuroscience, the study of the brain and the nervous system, is another fascinating field. Neuroscience has uncovered many mysteries of the human brain, including how it processes information and creates consciousness. Andrew Huberman, a neuroscientist at Stanford University, offers his insights on the latest research in neuroscience and brain health.
+Moving to the field of neuroscience, the study of the brain and the nervous system, is another fascinating field. Neuroscience has uncovered many mysteries of the human brain, including how it processes information and creates consciousness. 
 
-Psychology, the study of the mind and behavior, is another field that has made significant contributions to our understanding of ourselves. Carl Jung and Sigmund Freud are two of the most well-known psychologists, known for their work on the human psyche and the unconscious mind. Gabor Mate, a Hungarian-Canadian physician, has written several books on the connection between stress and disease. Andras Feldmar, a psychologist and psychotherapist, focuses on the intersection of psychology, spirituality, and culture.
+People to follow:
+- Andrew Huberman, a neuroscientist at Stanford University, offers his insights on the latest research in neuroscience and brain health.
+
+Podcasts:
+ - Lex Fridman podcast
+
+Psychology, the study of the mind and behavior, is another field that has made significant contributions to our understanding of ourselves. 
+
+People to follow:
+
+- Carl Jung and Sigmund Freud are two of the most well-known psychologists, known for their work on the human psyche and the unconscious mind. 
+- Gabor Mate, a Hungarian-Canadian physician, has written several books on the connection between stress and disease. 
+- Andras Feldmar, a psychologist and psychotherapist, focuses on the intersection of psychology, spirituality, and culture.
 
 ## Final thoughts
 
@@ -138,3 +184,4 @@ Moreover, exploring various philosophical and scientific theories can help us be
 
 While it can be challenging to navigate the vast sea of information and ideas available to us, we can take comfort in knowing that we have the tools and resources to find meaning and purpose in our lives. Whether it's through scientific exploration, philosophical contemplation, or personal growth and development, there is no shortage of opportunities for us to expand our knowledge and enrich our lives.
 
+Keep asking! Keep seeking!
