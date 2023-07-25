@@ -53,12 +53,6 @@
 			alt="react"
 		/>
 		<img
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-			width="100"
-			height="100"
-			alt="kubernetes"
-		/>
-		<img
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 			width="100"
 			height="100"

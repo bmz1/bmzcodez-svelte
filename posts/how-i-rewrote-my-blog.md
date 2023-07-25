@@ -14,12 +14,10 @@ description: 'A quick overview how I rewrote my blog, and what technologies I ch
 - nuxt-content module to handle markdown
 - TailwindCSS
 - Vercel for hosting
-
 ---
-
-OUTDATED
-
 It took about a year or two to find the most elegant and fitting solution. I had tons of attempts, but most of it were trash. Actually, I didn't know what I wanted.
+
+*Surprise: This article is outdated by now*
 
 So, I've tried all the frameworks:
 
